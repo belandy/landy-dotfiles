@@ -1,0 +1,11 @@
+dconf/
+enchant/
+gedit/
+fish/completions
+fish/conf.d
+fish/themes
+fish/functions
+
+fish_plugins
+fish_variables
+lazy-lock.json
